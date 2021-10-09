@@ -19,6 +19,9 @@ The code in question was line 64-68.
 		if (*s == '/' && prefix("../", (++s)))
 			return(FAIL);
 	}
+```
+
+This code will allow `//..//` to pass thru undetected.
 
 ## Example code to show the vulnerability.
 
