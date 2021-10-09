@@ -1,6 +1,6 @@
 # The 1978 UNIX v7 UUCP chkpth() bug
 
-Unix v7 UUCP had a bug in the `chkpth()` code
+Unix v7 [UUCP](https://en.wikipedia.org/wiki/UUCP) had a bug in the `chkpth()` code
 
 There was a bug in UUCP way-way-back in the late 70's and early 80's within the original UUCP code included in Unix v7 and it's newer derived versions.
 
@@ -80,9 +80,18 @@ You can plan with the `test-chkpth-input.txt` and provide any tests you require.
 
 ## The UUCP fix
 
-Dan Nowitz rewrote this specific code to canonicalize the path instead of rejecting the `../`.
+Dave Nowitz (known as `dan` because that was his login) rewrote this specific code to canonicalize the path instead of rejecting the `../`.
 
-Later on, UUCP was 100% recoded from scratch and became something called **Honey DanBer UUCP**. It's written about in [HONEY DANBER - THE UUCP OF THE FUTURE.  P. Honeyman, D.A. Nowitz, Be Redman](https://www.bell-labs.com/institute/publications/bl8491475/) and is the surviving version of UUCP.
+Later on, UUCP was rewritten (some parts recoded from scratch, some left alone - like [g-protocol](https://en.wikipedia.org/wiki/UUCP#g-protocol)). This new effort became something called **Honey DanBer UUCP**. It's written about in [HONEY DANBER - THE UUCP OF THE FUTURE. Peter Honeyman, Dave A Nowitz, Brian E Redman](https://www.bell-labs.com/institute/publications/bl8491475/) and is the surviving version of UUCP.
+
+The new version was presented via:
+
+- NOWITZ, D.A., HONEYMAN, P., AND REDMAN, B.E. 1984. Experimental implementation of UUCP—security aspects. In Proceedings of the USENIX UniForum Conference (Washington, D.C., January 17–20, 1984). USENIX Association, Berkeley, CA, 245–250.
+- HONEYMAN, P., NOWITZ, D.A., AND REDMAN, B.E. 1984. New Protection Features in UUCP. UNIFORUM (January 1984).
+- HONEYMAN, P., NOWITZ, D.A., AND REDMAN, B.E. 1984. An Experimental Version of UUCP. UNIFORUM (January 1984).
+- HONEYMAN, P., NOWITZ, D.A., AND REDMAN, B.E. 1984. Honey DanBer – The UUCP of the Future. European UNIX Systems User Group Spring Meeting (April 1984).
+
+But there aren't any copies online.
 
 ## Modern day networking
 
