@@ -1,4 +1,5 @@
-UUCP# unix-v7-uucp-chkpth-bug
+# The 1978 UNIX v7 UUCP chkpth() bug
+
 Unix v7 UUCP had a bug in the chkpth() code
 
 There was a bug in UUCP way-way-back in the late 70's and early 80's within the original UUCP code included in Unix v7 and it's newer versions.
