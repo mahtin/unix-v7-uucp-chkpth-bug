@@ -1,8 +1,8 @@
 # The 1978 UNIX v7 UUCP chkpth() bug
 
-Unix v7 UUCP had a bug in the chkpth() code
+Unix v7 UUCP had a bug in the `chkpth()` code
 
-There was a bug in UUCP way-way-back in the late 70's and early 80's within the original UUCP code included in Unix v7 and it's newer versions.
+There was a bug in UUCP way-way-back in the late 70's and early 80's within the original UUCP code included in Unix v7 and it's newer derived versions.
 
 ## CVE-2021-41773
  
@@ -82,7 +82,9 @@ You can plan with the `test-chkpth-input.txt` and provide any tests you require.
 
 Dan Nowitz rewrote this specific code to canonicalize the path instead of rejecting the `../`.
 
-Later on, UUCP was 100% recoded from scratch and became something called *Honey DanBer UUCP*. It's written about in [HONEY DANBER - THE UUCP OF THE FUTURE.  P. Honeyman, D.A. Nowitz, Be Redman](https://www.bell-labs.com/institute/publications/bl8491475/) and is the surviving version of UUCP.
+Later on, UUCP was 100% recoded from scratch and became something called **Honey DanBer UUCP**. It's written about in [HONEY DANBER - THE UUCP OF THE FUTURE.  P. Honeyman, D.A. Nowitz, Be Redman](https://www.bell-labs.com/institute/publications/bl8491475/) and is the surviving version of UUCP.
+
+## Modern day networking
 
 UUCP in-fact didn't fully survive.
 
