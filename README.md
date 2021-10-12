@@ -83,6 +83,12 @@ Dave Nowitz (known as `dan` because that was his login) rewrote this specific co
 
 Later on, UUCP was rewritten (some parts recoded from scratch, some left alone - like [g-protocol](https://en.wikipedia.org/wiki/UUCP#g-protocol)). This new effort became something called **Honey DanBer UUCP**. It's written about in [HONEY DANBER - THE UUCP OF THE FUTURE. Peter Honeyman, Dave A Nowitz, Brian E Redman](https://www.bell-labs.com/institute/publications/bl8491475/) and is the surviving version of UUCP.
 
+This is how it was written up by [Peter H. Salus](https://en.wikipedia.org/wiki/Peter_H._Salus) in the book Casting the Net, March 1995:
+
+![Honey DanBer UUCP](/docs/images/Casting-the-Net-Peter-Salus-page-132-133.jpg?raw=true "Honey DanBer UUCP")
+
+I can attest to that being the truth. I was there.
+
 The new version was presented via:
 
 - NOWITZ, D.A., HONEYMAN, P., AND REDMAN, B.E. 1984. Experimental implementation of UUCP—security aspects. In Proceedings of the USENIX UniForum Conference (Washington, D.C., January 17–20, 1984). USENIX Association, Berkeley, CA, 245–250.
@@ -90,7 +96,7 @@ The new version was presented via:
 - HONEYMAN, P., NOWITZ, D.A., AND REDMAN, B.E. 1984. An Experimental Version of UUCP. UNIFORUM (January 1984).
 - HONEYMAN, P., NOWITZ, D.A., AND REDMAN, B.E. 1984. Honey DanBer – The UUCP of the Future. European UNIX Systems User Group Spring Meeting (April 1984).
 
-But there aren't any copies online.
+But sadly there aren't any copies online.
 
 ## Modern day networking
 
