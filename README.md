@@ -100,7 +100,7 @@ The new version was presented via:
 
 But sadly there aren't copies of all of these online. The **An Experimental Version of UUCP** is available via the most excellent [Internet Archive](https://archive.org/) here [https://archive.org/details/1984-proceedings-uni-forum-dc](https://archive.org/details/1984-proceedings-uni-forum-dc) or here [https://ia801709.us.archive.org/33/items/1984-proceedings-uni-forum-dc/1984ProceedingsUniForumDC.pdf](https://ia801709.us.archive.org/33/items/1984-proceedings-uni-forum-dc/1984ProceedingsUniForumDC.pdf). Thank you Internet Archive!
 
-![An Experimental Version of UUCP](/docs/images/January-1984-UniForum Conference Proceedings-Washington-DC.jpeg?raw=true "An Experimental Version of UUCP")
+![An Experimental Version of UUCP](/docs/images/January-1984-UniForum-Conference-Proceedings-Washington-DC.jpeg?raw=true "An Experimental Version of UUCP")
 
 ## Modern day networking
 
