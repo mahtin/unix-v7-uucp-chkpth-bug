@@ -83,9 +83,11 @@ Dave Nowitz (known as `dan` because that was his login) rewrote this specific co
 
 Later on, UUCP was rewritten (some parts recoded from scratch, some left alone - like [g-protocol](https://en.wikipedia.org/wiki/UUCP#g-protocol)). This new effort became something called **Honey DanBer UUCP**. It's written about in [HONEY DANBER - THE UUCP OF THE FUTURE. Peter Honeyman, Dave A Nowitz, Brian E Redman](https://www.bell-labs.com/institute/publications/bl8491475/) and is the surviving version of UUCP.
 
-This is how it was written up by [Peter H. Salus](https://en.wikipedia.org/wiki/Peter_H._Salus) in the book Casting the Net, March 1995:
+This is how it was written up by [Peter H. Salus](https://en.wikipedia.org/wiki/Peter_H._Salus) in the book **Casting the Net**, March 1995
 
 ![Honey DanBer UUCP](/docs/images/Casting-the-Net-Peter-Salus-page-132-133.jpg?raw=true "Honey DanBer UUCP")
+
+(Copyright © 1995 Addison-Wesley Publishing Company, Inc.)
 
 I can attest to that being the truth. I was there.
 
